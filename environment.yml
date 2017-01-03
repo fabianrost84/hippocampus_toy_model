@@ -40,8 +40,10 @@ dependencies:
 - libsodium=1.0.10=0
 - libxcb=1.12=1
 - libxml2=2.9.2=0
+- llvm=3.3=0
 - markupsafe=0.23=py35_2
 - matplotlib=1.5.3=np111py35_1
+- mesa=10.5.4=0
 - mistune=0.7.3=py35_0
 - mkl=11.3.3=0
 - nb_anacondacloud=1.2.0=py35_0
@@ -79,6 +81,7 @@ dependencies:
 - sip=4.18=py35_0
 - six=1.10.0=py35_0
 - sqlite=3.13.0=0
+- system=5.8=2
 - terminado=0.6=py35_0
 - tk=8.5.18=0
 - tornado=4.4.2=py35_0
@@ -103,5 +106,6 @@ dependencies:
   - nb-conda-kernels==2.0.0
   - peakutils==1.0.3
   - prompt-toolkit==1.0.8
+  - tqdm==4.10.0
 prefix: /home/fabian/anaconda2/envs/py3
 
